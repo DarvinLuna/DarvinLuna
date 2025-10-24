@@ -76,15 +76,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarvinLuna&theme=dark" alt="darvinluna-streak" />
 </p>
 
-<br>
-
-
-
-<br>
-<hr width="60%" >
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DarvinLuna&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
 ------
 <p align="center">
