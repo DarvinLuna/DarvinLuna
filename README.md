@@ -1,18 +1,4 @@
-<p align="center">
-  <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
-  </picture>
-  <b>Hi, I'm Darvin Luna</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</p>
-
-<p align="center">
-  <a href="https://github.com/darvinluna">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
-  </a>
-</p>
-
----
+<h1 align="center">Hi 👋, I'm Darvin Luna</h1>
 
 <p align="left">
   <h3 align="left">Full Stack Developer (Web & Mobile)</h3>
@@ -22,6 +8,7 @@
 </p>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 
 <br>
 
@@ -65,23 +52,54 @@
   </a> 
 </p>
 
-<br clear="right"/>
+<br>
+<hr width="36%" >
 
----
+<h3>&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Profile Stats </b></h3>
 
-### Github Profile Stats
+[![](https://raw.githubusercontent.com/DarvinLuna/DarvinLuna/main/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/DarvinLuna/DarvinLuna/main/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DarvinLuna/DarvinLuna/main/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/DarvinLuna/DarvinLuna/main/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DarvinLuna/DarvinLuna/main/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/darvinluna/darvinluna/main/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<br><br>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarvinLuna&show_icons=true&theme=dark&locale=en&layout=compact" alt="darvinluna-top-langs" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarvinLuna&show_icons=true&theme=dark&locale=en" alt="darvinluna-stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarvinLuna&theme=dark" alt="darvinluna-streak" />
+</p>
 
+<br>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DarvinLuna/DarvinLuna/blob/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DarvinLuna/DarvinLuna/blob/main/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/DarvinLuna/DarvinLuna/blob/main/dist/github-snake.svg" />
+</picture>
 
----
+<br>
+<hr width="60%" >
 
-### Github Profile Stats
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/tu-usuario-linkedin" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mi-linkedin" height="30" width="40" />
+  </a>
+  
+  <a href="mailto:tu@email.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mi-email" />
+  </a>
+</p>
+<br>
 
-[![](https://raw.githubusercontent.com/darvinluna/darvinluna/main/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-📚 Software Engineering student
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DarvinLuna&label=Profile%20views&color=0e75b6&style=flat" alt="vistas-perfil" /> </p>
+
+------
+<p align="center">
+  <a href="https://github.com/DarvinLuna">Darvin Luna</a>
+</p>
 
