@@ -1,0 +1,22 @@
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:í
+          github_user_name: 'DarvinLuna'
+       
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
