@@ -83,17 +83,6 @@
 <br>
 <hr width="60%" >
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my-linkedin" height="30" width="40" />
-  </a>
-  
-  <a href="mailto:your@email.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="my-email" />
-  </a>
-</p>
-<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DarvinLuna&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
