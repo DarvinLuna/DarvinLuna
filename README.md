@@ -3,7 +3,10 @@
 <p align="left">
   <h3 align="left">Full Stack Developer (Web & Mobile)</h3>
   <p align="left">
-    Especializado en el ecosistema <strong>TypeScript / React Native</strong> para el frontend y <strong>Python / Django</strong> para el backend.
+    Specialized in the <strong>TypeScript / React Native</strong> ecosystem for frontend and <strong>Python / Django</strong> for backend.
+  </p>
+  <p align="left">
+    💬 <strong>Languages:</strong> Spanish (Native) | English (B1+ - Fluent)
   </p>
 </p>
 
@@ -86,17 +89,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/tu-usuario-linkedin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mi-linkedin" height="30" width="40" />
+  <a href="https://linkedin.com/in/your-linkedin-username" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my-linkedin" height="30" width="40" />
   </a>
   
-  <a href="mailto:tu@email.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mi-email" />
+  <a href="mailto:your@email.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="my-email" />
   </a>
 </p>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DarvinLuna&label=Profile%20views&color=0e75b6&style=flat" alt="vistas-perfil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DarvinLuna&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
 ------
 <p align="center">
