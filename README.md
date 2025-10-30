@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
   <a href="https://www.odoo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_logo.svg" alt="odoo" width="40" height="40"/> 
+    <img src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_logo.svg" alt="odoo" width="80" height="80"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
