@@ -74,7 +74,7 @@
   </div>
   <h3 align="left">📊 Global Activity</h3>
 <p align="left">
-  <img src="https://github.com/DarvinLuna/DarvinLuna/blob/main/global_stats.svg?raw=true" alt="Global Stats" width="500"/>
+  <img src="https://github.com/DarvinLuna/gitlab-stats/blob/main/global_stats.svg?raw=true" alt="Global Stats" width="500"/>
 </p>
 
 <hr>
