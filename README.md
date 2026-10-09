@@ -8,9 +8,7 @@
     <a href="https://www.linkedin.com/in/darvin-luna">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Darvin Luna on LinkedIn">
     </a>
-    <a href="mailto:darvinlunaj@gmail.com">
-      <img src="https://img.shields.io/badge/Email-24283B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Darvin Luna at darvinlunaj@gmail.com">
-    </a>
+    <a href="mailto:darvinlunaj@gmail.com">darvinlunaj@gmail.com</a>
   </p>
 
 </div>
@@ -19,15 +17,12 @@
 
 I'm Darvin Luna, a Full Stack Developer and Software Engineer working with React Native, Django, Python, TypeScript, Odoo, and Docker.
 
-## Tech stack
+## Programming languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React Native">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&amp;logo=odoo&amp;logoColor=white" alt="Odoo">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+  <strong>Python</strong> &nbsp;·&nbsp;
+  <strong>TypeScript</strong> &nbsp;·&nbsp;
+  <strong>JavaScript</strong>
 </p>
 
 ## GitHub activity
