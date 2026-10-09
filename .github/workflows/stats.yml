@@ -1,23 +1,42 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  create:
   push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/workflows/stats.yml
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-cards-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   build:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     name: generate-github-cards
     permissions:
       contents: write
-      
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Checkout latest main branch
+        uses: actions/checkout@v7.0.1
+        with:
+          ref: main
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: DarvinLuna
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: -6
