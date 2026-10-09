@@ -5,9 +5,12 @@
   <p>Mobile experiences · Backend services · Business software</p>
 
   <p>
-    <a href="https://github.com/DarvinLuna?tab=repositories">Explore my repositories</a>
-    · <a href="#tech-stack">Tech stack</a>
-    · <a href="#github-activity">GitHub activity</a>
+    <a href="https://www.linkedin.com/in/darvin-luna">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Darvin Luna on LinkedIn">
+    </a>
+    <a href="mailto:darvinlunaj@gmail.com">
+      <img src="https://img.shields.io/badge/Email-24283B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Darvin Luna at darvinlunaj@gmail.com">
+    </a>
   </p>
 
 </div>
