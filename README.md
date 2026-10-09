@@ -80,6 +80,4 @@ I'm Darvin Luna, a Full Stack Developer and Software Engineer working with React
     <img src="https://raw.githubusercontent.com/DarvinLuna/DarvinLuna/output/github-snake.svg" alt="Animated snake following my GitHub contributions" width="850">
   </picture>
 
-  <p><sub>Generated daily with GitHub Actions.</sub></p>
-
 </div>
