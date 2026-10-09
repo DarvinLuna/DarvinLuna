@@ -49,6 +49,7 @@ I'm Darvin Luna, a Full Stack Developer and Software Engineer building mobile, w
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square" alt="Microsoft SQL Server">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
 </p>
 
@@ -57,6 +58,7 @@ I'm Darvin Luna, a Full Stack Developer and Software Engineer building mobile, w
 <p align="center">
   <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&amp;logo=odoo&amp;logoColor=white" alt="Odoo">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&amp;logo=grafana&amp;logoColor=white" alt="Grafana">
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=flat-square&amp;logo=uipath&amp;logoColor=white" alt="UiPath">
 </p>
 
